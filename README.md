@@ -1,2 +1,2 @@
-# avance_proyecto_05_pseudocogido.txt
-se sigue mejorando el programa del gestor de notas para ir optimizando de manera eficaz el programa y que puede ser de utilidad al centro academico
+# proyecto_final_control_de_notas.txt
+se termina el programa donde el centro academico tendra una mejor eficiencia para llevar el control de notas y asi mismo irse actualizando conforme a como ellos lo estara usando dependiendo la necesidades 
