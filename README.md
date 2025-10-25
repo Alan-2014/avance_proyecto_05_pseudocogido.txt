@@ -1,5 +1,5 @@
 # proyecto_final_control_de_notas.txt
-se termina el programa donde el centro academico tendra una mejor eficiencia para llevar el control de notas y asi mismo irse actualizando conforme a como ellos lo estara usando dependiendo la necesidades del cual pues describire en 3 preguntas como fue mi experiencia al realizar dicho proyecto.
+REFLEXION: se termina el programa donde el centro academico tendra una mejor eficiencia para llevar el control de notas y asi mismo irse actualizando conforme a como ellos lo estara usando dependiendo la necesidades del cual pues describire en 3 preguntas como fue mi experiencia al realizar dicho proyecto.
 
 1. ¿Qué aprendí con este proyecto? Primero que fue un reto para mi vida, ya que he aprendido que dando un esfuerzo siempre traera su recompensa ya que fueron varios dias de desvelo para hacer mi mayo esfuerzo y que al final tal ves no sea un programa como lo haria un ingeniero o alguien con mas experiencia o capacidad pero si siento que ha sido de gran provecho espero que logre llegar a tener cierta espectativa como lo desara la persona que lo llegue a usar pero si le di mucho empeño y seguire esforzandome mas aunque tal ves ya no tenga la misma capacidad de antes. Pero si este sera el inicio de mas proyecto con mas dificultades o adversidades del cual espero en DIOS lograrlo.
 
